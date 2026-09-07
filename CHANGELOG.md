@@ -1,5 +1,37 @@
 # Changelog
 
+## [1.0.0](https://github.com/croffasia/itsaplan/compare/v0.17.0...v1.0.0) (2026-09-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* group projects into teams ([#321](https://github.com/croffasia/itsaplan/issues/321))
+
+### Features
+
+* attach files and link Docs to an initiative ([#328](https://github.com/croffasia/itsaplan/issues/328)) ([a08a7cf](https://github.com/croffasia/itsaplan/commit/a08a7cfa3f73ca040f0a9e5ffff102677904fd4e))
+* group projects into teams ([#321](https://github.com/croffasia/itsaplan/issues/321)) ([39942a7](https://github.com/croffasia/itsaplan/commit/39942a74f4f2123e2c2fe32c68464590238366c4))
+* paste markdown into the editors ([#330](https://github.com/croffasia/itsaplan/issues/330)) ([c4f5cd0](https://github.com/croffasia/itsaplan/commit/c4f5cd0166fa15161a6c2e652552c5dd522c20d2))
+* **web:** create an initiative from the issue's initiative picker ([#322](https://github.com/croffasia/itsaplan/issues/322)) ([0f128e7](https://github.com/croffasia/itsaplan/commit/0f128e7f416527dda0f1024ab48081a1250fe63c))
+* **web:** create an initiative from the palette or a hotkey ([#329](https://github.com/croffasia/itsaplan/issues/329)) ([c38d121](https://github.com/croffasia/itsaplan/commit/c38d12196680822e5bd99f6d581fe6846623b905))
+
+
+### Improvements
+
+* **web:** show an empty state on every members tab ([#323](https://github.com/croffasia/itsaplan/issues/323)) ([742e43d](https://github.com/croffasia/itsaplan/commit/742e43dfd2e6682b3fc41c20fb5889bd96a5dd2f))
+
+
+### Bug Fixes
+
+* **net:** allow operators to trust named hosts that resolve privately ([#317](https://github.com/croffasia/itsaplan/issues/317)) ([257c817](https://github.com/croffasia/itsaplan/commit/257c817dba7644398767d886a61d78b08ad0c1b9))
+* reject an issue due date before its start date ([#325](https://github.com/croffasia/itsaplan/issues/325)) ([5bfb34e](https://github.com/croffasia/itsaplan/commit/5bfb34e7a5c4b5b01c36e15c00b9efc33ff12fe1))
+* **web:** stop the redirect loop on a stale session cookie ([#319](https://github.com/croffasia/itsaplan/issues/319)) ([2e392a3](https://github.com/croffasia/itsaplan/commit/2e392a3f4c769a7e766358f55ce9e67a6e51a249))
+
+
+### Refactoring
+
+* share the editor and attachment parts between issues and initiatives ([#327](https://github.com/croffasia/itsaplan/issues/327)) ([b862e7f](https://github.com/croffasia/itsaplan/commit/b862e7f4defb862f026802df5f5d2af96e3057f9))
+
 ## [0.17.0](https://github.com/croffasia/itsaplan/compare/v0.16.0...v0.17.0) (2026-09-06)
 
 
